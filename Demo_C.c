@@ -8,5 +8,10 @@ void main() {
     printf("Hel!!!!!lo Quoc!");
 
     // Fix Error
+    // Add some code here
+    // Add some code here
+    // Add some code here
+    // Add some code here
+    // Add some code here
     _getch();
 }
